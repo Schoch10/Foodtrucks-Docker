@@ -1,0 +1,18 @@
+{
+  "name": "foodtruckservice",
+  "version": "0.1.0",
+  "description": "demo foodtruck service for boston",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "3.2.4"
+  },
+  "author": "Brendan Schoch",
+  "license": "ISC",
+  "devDependencies": {
+    "rx-node": "^1.0.2"
+  }
+}
